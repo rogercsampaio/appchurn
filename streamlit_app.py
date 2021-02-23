@@ -37,7 +37,7 @@ if (os.path.exists('datasets/city_area_code.xlsx')):
 	#cidadesAreaCode = cidadesAreaCode.drop(columns = 'CIDADE')
 	#cidadesAreaCode = cidadesAreaCode.drop_duplicates()
 	#listAreaCodes = list(cidadesAreaCode.CODIGO_DDI)
-        listAreaCodes = list[810,500,500]
+        listAreaCodes = [810,500,500]
 	codigoArea = st.selectbox('Informe o código da área',options = listAreaCodes)
 	st.write('Código da área',codigoArea)
 
