@@ -7,6 +7,7 @@ import numpy as np
 import pandas as pd
 from PIL import Image
 import sklearn
+import xlrd
 
 # Criando os componentes 
 st.set_page_config(page_title = 'Simulador de Church')
