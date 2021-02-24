@@ -17,3 +17,6 @@ Um dos maiores problemas enfrentados por empresas, em especial, operadoras de te
 
 Ainda é possível responder outras perguntas, utilizando os filtros disponíveis em cada página.
 O projeto contempla também previsão de churn para novos clientes cadastrados, além de encontrar quais os principais fatores que influenciam o cliente deixar a operadora. Tecnologias usadas: Python, Qlik Sense, PowerBI.
+
+Link dashboard: https://app.powerbi.com/view?r=eyJrIjoiZmMwOWIzNTctNjRhMS00Mjg5LTliZWItNTNhZTZjZDcwZWM3IiwidCI6ImYwNTFkMjhjLWM4NTctNGRiMy04NzdlLWIwNGY0M2Y1ZDQxZiJ9&pageName=ReportSection
+Link previsões: https://share.streamlit.io/rogercsampaio/appchurn/main
